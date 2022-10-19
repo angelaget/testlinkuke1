@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Max :a Poodle From Norway</title>
+    <link rel="stylesheet" href="assets/vendors/animate.css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/vendors/jquery/jquery.min.js"></script>
+    <script src="assets/js/loader.js"></script>
+</head>
+
+<body>
+    <div class="hiro-loader"></div>
+    <header class="hiro-header home-header">
+        <div class="container wow fadeInUp">
+            <div id="hiroHeaderCarousel" class="hiro-header-carousel carousel slide" data-ride="carousel" data-interval=".">
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h1 class="carousel-item-title" data-animation="animated fadeInRight"><span>About Max</span></h1>
+                                <p class="carousel-item-description" data-animation="animated fadeInRight">Max (Maxillian Augusto Constantine Cornelius VI) is a charming, well-mannered miniature poodle living in Asker, Norway. He is slightly (under)diagnosed with ADHD, and he has a severe underbite. But for all that knows him, that just makes him ever so special.</p>
+                                <a href="#!" class="carousel-item-link link-hover-fx" data-animation="animated fadeInRight">WALK WITH ME</a>
+                                <ul class="carousel-item-social-links nav" data-animation="animated fadeInRight">
+                                    <li>
+                                        <a href="#!" class="link-hover-fx"> INSTAGRAM</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="link-hover-fx">TIKTOK</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <img src="assets/images/max_postkasse.jpg" alt="Remarkable Digital Products" class="img-fluid w-100 rounded" width="372px">
+                            </div>
+                        </div>
+        </div>
+    </header>
+    <div class="hiro-nav-popup-modal">
+        <div class="hiro-nav-popup-modal-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 menu-wrapper">
+                        <ul class="nav hiro-main-nav">
+                            <li class="nav-item">
+                                <a href="index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#about" class="nav-link">About Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#services" class="nav-link">Services</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#works" class="nav-link">Works</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="contact.html" class="nav-link">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 blog-posts text-white">
+                        <h5 class="popup-blog-headng">Blog</h5>
+                        <div class="media mb-4">
+                            <img src="assets/images/Blog_small2.jpg" alt="blog" width="86px" class="img-fluid mr-4">
+                            <div class="media-body align-self-end">
+                                <h5 class="popup-blog-post-title">Ambitious <br> designs</h5>
+                            </div>
+                        </div>
+                        <div class="media mb-4">
+                            <img src="assets/images/Blog_small1.jpg" alt="blog" width="86px" class="img-fluid mr-4">
+                            <div class="media-body align-self-end">
+                                <h5 class="popup-blog-post-title">The Collection <br> Cover Archive</h5>
+                            </div>
+                        </div>
+                        <p><a href="blog.html" class="text-white link-hover-fx text-decoration-none" class="font-weight-medium">View more</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="bg-primary hiro-section" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 d-flex flex-column justify-content-center wow fadeInUp">
+                    <h2 class="section-title mb-3">Take me on a walk!</h2>
+                    <p class="section-text-ct">Book a walk directly from my calendar. I am available 365 days a year.</p>
+                </div>
+                <div class="col-md-6 wow fadeInUp">
+                    <img src="assets/images/img_3.png" class="w-100 mb-5" alt="Digital Product Design">
+                    <button class="hiro-btn-outline">View my calendar</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="hiro-section" id="services">
+        <div class="container">
+            <div class="service-section">
+                <h2 class="section-title career-section-title">More about me</h2>
+                <div class="row">
+                    <div class="col-md-4 mb-4 mb-md-0 wow fadeInUp">
+                        <h6 class="service-category-title">Favorite activities</h6>
+                        <ul class="service-list list-group list-group-flush">
+                            <li class="list-group-item">Play with tennis balls</li>
+                            <li class="list-group-item">Open christmas gifts</li>
+                            <li class="list-group-item">Running like Ulsain Bolt</li>
+                            <li class="list-group-item">Chillax with my folks</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 mb-4 mb-md-0 wow fadeInUp">
+                        <h6 class="service-category-title">Favorite food</h6>
+                        <ul class="service-list list-group list-group-flush">
+                            <li class="list-group-item">Duck filet</li>
+                            <li class="list-group-item">Meatballs</li>
+                            <li class="list-group-item">Dried fish from Northern Norway</li>
+                            <li class="list-group-item">Chinese food</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 mb-4 mb-md-0 wow fadeInUp">
+                        <h6 class="service-category-title">Fun facts</h6>
+                        <ul class="service-list list-group list-group-flush">
+                            <li class="list-group-item">Birthday: Nov 16 2018</li>
+                            <li class="list-group-item">Weight: 5kg</li>
+                            <li class="list-group-item">1st Vacation destination: Bergen</li>
+                            <li class="list-group-item">Kennel: Eugenios</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</section>
+<section class="career-section hiro-section bg-primary">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h2 class="section-title wow fadeInLeft">
+                    Highlights <br> from walks with me
+                </h2>
+            </div>
+            <div class="col-md-6 wow fadeInRight">
+            </div>
+        </div>
+    </div>
+</section>
+
+    <section class="team-section hiro-section">
+<!-- Gallery -->
+<div class="row">
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+      <img
+        src="/assets/images/20220805_111405.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Boat on Calm Water"
+      />
+  
+      <img
+        src="/assets/images/max_postkasse.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Wintry Mountain Landscape"
+      />
+    </div>
+  
+    <div class="col-lg-4 mb-4 mb-lg-0">
+      <img
+        src="/assets/images/20220805_105810.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Mountains in the Clouds"
+      />
+  
+      <img
+        src="/assets/images/20220808_091009.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Boat on Calm Water"
+      />
+    </div>
+  
+    <div class="col-lg-4 mb-4 mb-lg-0">
+      <img
+        src="/assets/images/20220808_115509.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Waves at Sea"
+      />
+  
+      <img
+        src="/assets/images/20220803_232037~2.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        alt="Yosemite National Park"
+      />
+    </div>
+  </div>
+  <!-- Gallery -->
+ 
+</body>
+
+</html>
